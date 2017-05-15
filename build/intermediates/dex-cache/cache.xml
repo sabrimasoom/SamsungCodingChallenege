@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/masoomsabri/Downloads/Project/SamsungCodingChallenge/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/masoomsabri/Downloads/Project/SamsungCodingChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b519d40e23622027d6f085873454ddd6d7bafdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masoomsabri/Downloads/Project/SamsungCodingChallenge/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4fe1434d62d42a421a1e8b9f03723a766c30199">
+        <dex dex="/Users/masoomsabri/Downloads/Project/SamsungCodingChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1fa0ef0d0733b5073f5d8c3722837055d6a89203/classes.dex" />
+    </item>
+
+</items>
